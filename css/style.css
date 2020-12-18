@@ -92,12 +92,16 @@ footer p{
 }
 
 #products {
-	padding: 8%;
+	padding: 10%;
 }
 
 #products h4 {
 	color: var(--color-negro);
 	font-weight: 550;
+}
+
+#products h6 {
+	color: var(--color-negro);
 }
 
 #clients {
